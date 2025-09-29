@@ -47,3 +47,21 @@
 #     print("Username is less than 10 characters")
 # else:
 #     print("Username have more than 10 characters")
+
+# 5. Write a program which finds out whether a given name is present in a list or not.
+
+# name = input("Enter a name please: ")
+# names = [
+#     "Huzaifa", "Ali", "Ahmed", "Omar", "Usman", "Hamza", "Yusuf", "Ibrahim",
+#     "Ismail", "Bilal", "Salman", "Zaid", "Hassan", "Hussain", "Imran", "Amir",
+#     "Faisal", "Khalid", "Suleman", "Tariq", "Noman", "Adnan", "Farhan", "Saad",
+#     "Talha", "Rayyan", "Shahbaz", "Ayan", "Ehsan", "Danish", "Shahzad", "Junaid",
+#     "Mazhar", "Aslam", "Rizwan", "Nouman", "Haroon", "Shahid", "Sami", "Sameer",
+#     "Zubair", "Shahrukh", "Arsalan", "Muneeb", "Ammar", "Zeeshan", "Azlan",
+#     "Shafqat", "Basit", "Shakeel", "Naveed"
+# ]
+
+# if(name in names):
+#     print("Name found!")
+# else:
+#     print("name not found! Try another.")
