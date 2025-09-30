@@ -65,3 +65,32 @@
 #     print("Name found!")
 # else:
 #     print("name not found! Try another.")
+
+# Write a program to calculate the grade of a student from his marks using the following scheme:
+
+# 80–100 → Grade A
+# 70–79 → Grade B
+# 60–69 → Grade C
+# 50–59 → Grade D
+# Below 50 → Grade F
+
+# marks = float(input("Enter the Marks of the student (1-100): "))
+# if(marks >=90 and marks<=100):
+#     print("Excellent")
+# elif(marks >=80 and marks<=90):
+#     print("Grade A")
+# elif(marks >=70 and marks<=80):
+#     print("Grade B")
+# elif(marks >=60 and marks<=70):
+#     print("Grade C")
+# elif(marks >=50 and marks<=60):
+#     print("Grade D")
+# else:
+#     print("Grade F")
+
+# 7. Write a program to find out whether a given post is talking about "Harry" or not.
+# post = input("Write any post: ")
+# if("huzaifa" in post.lower()):
+#     print("Huzaifa Found! ")
+# else:
+#     print("Huzaifa not Found! ")
